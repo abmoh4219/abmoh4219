@@ -14,7 +14,6 @@ I design and build scalable software systems with a strong focus on clean archit
 - Lifelong learner, shipping and improving every day
 
 ### 🤝 Connect
-- **Phone:** +251-919117855
 - **Email:** abdelahmohammed0919@gmail.com
 - **LinkedIn:** [Abdelah Mohammed](https://www.linkedin.com/in/abdelah-mohammed-561aa124b/)
 - **Portfolio:** [abdelahmohammed0919.vercel.app](https://abdelah-portfolio.vercel.app/)
