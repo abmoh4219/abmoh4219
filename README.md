@@ -37,12 +37,19 @@ Git, Docker, Linux, Vercel
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abmoh4219&show_icons=true&theme=transparent" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmoh4219&layout=compact&theme=transparent" />
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abmoh4219&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abmoh4219&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abmoh4219&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+</div>
 
 ---
