@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelah Mohamed</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="center">
 I design and build scalable software systems with a strong focus on clean architecture, performance, and real-world problem solving.
